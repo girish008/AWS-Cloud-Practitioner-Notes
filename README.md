@@ -1,3 +1,5 @@
+# This is my personal notes for the AWS CLOUD Practitioner exam.
+
 # AWS-Cloud-Practitioner-Notes
 ### AWS CCP Fundamwntals and Important points 
 
