@@ -775,3 +775,10 @@ Two tiers:
 - AWS shield blocks DDOS attacks. Two tiers: Standard and Advanced
 - Inspector looks for vulnerabilies on your EC2 instances.
 - Advisor gives suggestions for improvement, advanced one requires business subscription
+
+
+
+
+## So this is a lot of information that you should be aware while preparing for the exam.
+
+# Please follow me on Linkdin (https://www.linkedin.com/in/girish-alladi/)
